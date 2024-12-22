@@ -18,6 +18,7 @@ Suggested timestamps
 
 ### Things to note:
 Prior to looking at the video below, I first wanted to install docker as is , till I realized a lot more goes into it than just PLUG & PLAY after looking at the docs (haha).
+The video below skips the sign in , on my side , I just signed it, not aware of any restrictions that might bring , but yip.
 
 ![Group 10](https://github.com/user-attachments/assets/dd1d1d70-08aa-4beb-bee1-185695ae7917)
 [**How To Install Docker on Windows 11 - Step-by-Step for Beginners (Updated 2024)**](https://www.youtube.com/watch?v=bw-bMhlhcpg)
