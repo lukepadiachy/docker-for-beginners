@@ -91,7 +91,9 @@ you can use the `welcome-to-docker` you had from the start to do this section
 ![image](https://github.com/user-attachments/assets/9c6f4021-067c-443c-b319-8f3688704746)
 
 
-
+# Next steps
+Now that you've had some fun with docker , why not try out their language specific guides? The guide I went for was the `.NET`  
+[.NET language-specific guide](https://github.com/lukepadiachy/docker-for-beginners/blob/main/dotnet-language-guide/README.md)
 
 
 
