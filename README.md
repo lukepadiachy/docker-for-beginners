@@ -17,3 +17,4 @@ Welcome to **Docker for Beginners**! Basically I tried Docker for the first time
 |---------------------|-----------------------------------|
 | ⚙️ [Setting Up Docker](./setting-up-docker/README.md) | Setting up Docker on your machine |
 | 🎓 [Docker's Learning Guide](./docker-learning-guide/README.md) | Breakdown of the Docker learning guide |
+| :heart_decoration: [.NET language-specific guide](./dotnet-language-guide/README.md) | Breakdown of how to create a containerized .NET application using Docker |
