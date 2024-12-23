@@ -72,7 +72,25 @@ In otherwords , how can I make the information that's inside my database stubbor
 ![image](https://github.com/user-attachments/assets/15a8f295-0ec6-431e-8c40-4cdf88851098)
 
 ## Access your local folder from a container
-Bind Mounts ? WHAT ARE THOOOSE ?? It's like a direct link between your computer and a container. It lets the container access files or folders from your computer in real-time.
+Bind Mounts ? WHAT ARE THOOOSE !? It's like a direct link between your computer and a container. It lets the container access files or folders from your computer. In this section you will be uncommenting some code too. Don't forget to save your work as soon as you make any changes with `ctrl + s`, Pay close attention to the outputs coming from your terminal , for some reason its just good to know whats coming out of it. Personally I would just look at what's actually running. You will notice there are some links being added in your guide which provides the port `http://localhost:3001/` note that these ports are the ones specified for you repos that you working in , so you can click these within you Docker Desktop to open the browser.
+
+![image](https://github.com/user-attachments/assets/13d984d4-b639-4b9c-9030-ca2705e3db12)
+
+## Containerize your application
+When you get to this part , things will start to make abit more sense I hope? You'll be seeing how Docker comes together from a command called `docker init` which will create all the files required for you. I got abit hands on with this. Decided to create my own Web App on using the [**.NET**](https://dotnet.microsoft.com/en-us/). Now that I'm looking looking at this section , I realized , they dont actually provide you a repo for this specific section, which is okay , because you could use mine too? [**docker web app example**](https://github.com/lukepadiachy/docker-webapp-example)
+
+![image](https://github.com/user-attachments/assets/7014a2da-b778-4e75-b413-35344a33eb0d)
+
+## Publish your image
+This is a pretty simple one, Im guessing this is the happy path of whats already available within your docker desktop , I have noticed that some of the homies had some issues when it came to the image part of docker but not this specific path , its more in the developing path when you actually incorporating docker in real projects. You will be renaming your image so you can publish it to the docker hub.
+
+for this you could use the docker desktop `terminal`
+
+you can use the `welcome-to-docker` you had from the start to do this section 
+
+![image](https://github.com/user-attachments/assets/9c6f4021-067c-443c-b319-8f3688704746)
+
+
 
 
 
