@@ -28,3 +28,7 @@ I would suggest looking at the documentation aswell, it's always good to have yo
 # 📚 References
 - [**What is Docker?**](https://docs.docker.com/get-started/docker-overview/)
 - [**Docker Concepts**](https://docs.docker.com/get-started/docker-concepts/the-basics/what-is-a-container/)
+
+# Next steps
+After setting up your machine with docker, how about giving it a spin with some cool walkthroughs? 
+[Docker's Learning Guide](./docker-learning-guide/README.md) 
