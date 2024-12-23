@@ -12,7 +12,7 @@ The time specified on the docs is 20 minutes, It took me about a day to get a gr
 - [Containerize and run a dotnet application](#containerize-and-run-a-dotnet-application)
 - [Set up a local environment to develop a dotnet application using containers](#set-up-a-local-environment-to-develop-a-dotnet-application-using-containers)
 - [Run tests for a dotnet application using containers](#run-tests-for-a-dotnet-application-using-containers)
-- [Configure a CI CD pipeline for a containerized dotnet application using GitHub Actions](#configure-a-ci-cd-pipeline-for-a-containerized-dotnet-application-using-github-actions)
+- [Configure a CI CD pipeline for a containerized dotnet application using GitHub Actions](#configure-a-cicd-pipeline-for-a-containerized-dotnet-application-using-github-actions)
 - [Deploy your containerized application locally to Kubernetes to test and debug your deployment](#deploy-your-containerized-application-locally-to-kubernetes-to-test-and-debug-your-deployment)
 
 
