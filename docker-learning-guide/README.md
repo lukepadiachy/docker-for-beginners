@@ -33,7 +33,7 @@ Here's some docs:
 
 You will also find yourself in the IDE of your choosing, checking out some code. I mentioned before, due to the tutorial giving off a Visual Studio Code vibes only, I went that route.
 
-**SOME CHEATCODES**
+**SOME CHEATCODES (Assuming you have GIT installed)**
 | Step 1 | Step 2 |
 |--------|--------|
 | ![Step 1](https://github.com/user-attachments/assets/fd09d410-2724-4879-b009-5e0537dced0a) <br> Once inside your welcome-to-docker folder type `cmd` in the top bar | ![Step 2](https://github.com/user-attachments/assets/c65b214b-7a0c-4c4b-960e-03a0af2a8acc) <br> After hitting Enter, you will have the command line open then type in `code .` which will open the IDE |
