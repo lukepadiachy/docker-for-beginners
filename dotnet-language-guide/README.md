@@ -159,6 +159,10 @@ At this point I assume you:
 
   ![image](https://github.com/user-attachments/assets/c2e0e7e5-b924-4178-a47a-2f0a0177162b)
 
-  Once you've done this , you basically free to explore any more avenues of docker :) , CONGRATS !!!
-  
+  Once you've done this , you basically free to explore any more avenues of docker :)
+
+# 🎉 Congratulations 
+You have made it to the end of my GitHub channel, dont forget to like & subscribe hehe. 
+After this I'll be learning more in-depth things about docker also trying it out on Visual Studio and seeing the difference between the do. 
+With everything I learn related to the cause, I'll share in here too. 
 
