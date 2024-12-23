@@ -31,4 +31,4 @@ I would suggest looking at the documentation aswell, it's always good to have yo
 
 # Next steps
 After setting up your machine with docker, how about giving it a spin with some cool walkthroughs? 
-[Docker's Learning Guide](./docker-learning-guide/README.md) 
+[Docker's Learning Guide](https://github.com/lukepadiachy/docker-for-beginners/blob/main/docker-learning-guide/README.md)
