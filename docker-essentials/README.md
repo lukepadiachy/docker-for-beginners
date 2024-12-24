@@ -15,4 +15,4 @@ I remembered at the start of the repo I mentioned **"Definetly plan on adding mo
 
 | Title             | Description                       |
 |---------------------|-----------------------------------|
-| ⚙️ [SQL Server Database With Docker](replacewithvalidlink) | Containerizing Your SQL Server Database With Docker |
+| ⚙️ [SQL Server Database With Docker](https://github.com/lukepadiachy/docker-for-beginners/blob/main/docker-essentials/1.Containerizing%20Your%20SQL%20Server%20Database%20With%20Docker.md) | Containerizing Your SQL Server Database With Docker |
