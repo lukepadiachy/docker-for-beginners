@@ -16,4 +16,4 @@ I remembered at the start of the repo I mentioned **"Definetly plan on adding mo
 | Title             | Description                       |
 |---------------------|-----------------------------------|
 | ⚙️ [SQL Server Database With Docker](https://github.com/lukepadiachy/docker-for-beginners/blob/main/docker-essentials/1.Containerizing%20Your%20SQL%20Server%20Database%20With%20Docker.md) | Containerizing Your SQL Server Database With Docker |
-| 🌐 [ASP.NET Core API With Docker](https://github.com/lukepadiachy/docker-for-beginners/blob/main/docker-essentials/2.Containerizing%20Your%20ASP.NET%20Core%20API%20With%20Docker.md) | Containerizing Your ASP.NET Core API With Docker |
+| 🌐 [ASP.NET Core API & SQL Server Database With Docker](https://github.com/lukepadiachy/docker-for-beginners/blob/main/docker-essentials/2.Containerizing%20Your%20ASP.NET%20Core%20API%20With%20Docker.md) | Having some Fun with Docker |
