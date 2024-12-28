@@ -8,17 +8,17 @@ Once we have connected those pieces of the puzzle. We will see that a Docker fil
 
 # 🔍 Specifics
 
-- [Create Your ASP.NET Core Web API](#create-your-asp.net-core-web-api)
-- [Connect ASP.NET Core Web API to a Dockerised SQL Server Database](#connect-your-asp.net-core-web-api-to-a-dockerised-sql-server-database)
+- [Create Your ASP DotNet Core Web API](#create-your-asp-dotnet-core-web-api)
+- [Connect ASP DotNet Core Web API to a Dockerised SQL Server Database](#connect-your-asp-dotnet-core-web-api-to-a-dockerised-sql-server-database)
 
 
 
 
-## Create Your ASP.NET Core Web API
+## Create Your ASP DotNet Core Web API
 Keep in mind I'm using `.NET 9` , with that being said , you can either `clone` this repo (assuming you have Git) [book-store](https://github.com/lukepadiachy/book-store) or create it yourself. I have made a small video so you can see how to create it in `Visual Studio`.
 [Video Link](https://drive.google.com/file/d/1_yarqwPwK4E_cqg86MDsKcZU9I514VET/view?usp=sharing). If you are using my repo , note I have added swagger to it, as this does not come with ASP.NET Core Web API for `.NET9` , older versions should still have it. So if you decided to create your own repo for this on `.NET9`.
 Here's a link to show you how to incorporate it in your project : [.NET9 Swagger Integration](https://github.com/Menayer/DotNet9-Swagger-Integration).
 
 ![image](https://github.com/user-attachments/assets/21ef65b0-a020-45cc-8a66-ccea3df6231e)
 
-## Connect ASP.NET Core Web API to a Dockerised SQL Server Database
+## Connect ASP DotNet Core Web API to a Dockerised SQL Server Database
