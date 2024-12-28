@@ -9,7 +9,7 @@ Once we have connected those pieces of the puzzle. We will see that a Docker fil
 # 🔍 Specifics
 
 - [Create Your ASP DotNet Core Web API](#create-your-asp-dotnet-core-web-api)
-- [Connect ASP DotNet Core Web API to a Dockerised SQL Server Database](#connect-your-asp-dotnet-core-web-api-to-a-dockerised-sql-server-database)
+- [Connect ASP DotNet Core Web API to a Dockerised SQL Server Database](#connect-asp-dotnet-core-web-api-to-a-dockerised-sql-server-database)
 
 
 
