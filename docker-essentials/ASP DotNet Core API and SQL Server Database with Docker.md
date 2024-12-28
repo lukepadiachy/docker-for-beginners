@@ -124,11 +124,15 @@ So we got our model, lets take this piece of the puzzle and connect it.
 
   ```markdown
   "ConnectionStrings": {
-  "BookStoreDatabaseConnection": "Server=localhost, 1400;Database=MusicStoreDb;Trusted_Connection=false;MultipleActiveResultSets=true;Encrypt=false;user id=sa;password=Str0ngPa$$word;"
+  "BookStoreDatabaseConnection": "Server=localhost, 1400;Database=BookStoreDb;Trusted_Connection=false;MultipleActiveResultSets=true;Encrypt=false;user id=sa;password=Str0ngPa$$word;"
   },
   ```
   
 - This will be pointing at our Database in **Docker** , if you don't know how to do this, refer to [Containerizing Your SQL Server Database With Docker](https://github.com/lukepadiachy/docker-for-beginners/blob/main/docker-essentials/1.Containerizing%20Your%20SQL%20Server%20Database%20With%20Docker.md)
 - So since we using of dockerised SQL Server from the get-go , be mindful of your port you used in the set up of your SQL Server on Docker , in my setup I used `1400` , so it would be `1400:1433`
+
+![image](https://github.com/user-attachments/assets/f77c47d0-ddca-4abb-b819-5bc05c80a1d7)
+
+-
 
 
